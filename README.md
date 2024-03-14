@@ -15,7 +15,8 @@ Python character set </u>
 </H3>
 <ul> <li> Letters  - A to Z, a to z </li> </ul>
 <ul> <li> Digits- 0 to 9 </li> </ul>
-
-
+<ul> <li> Special Symbols - + * / % Etc. </li> </ul>
+<ul> <li> Whitespace - Blank Space,tab,Carriage Return,Newline, Formfeed </li> </ul>
+<ul> <li> Other characters - python can process all ASCII and unicode characters as part of data or literals </li> </ul>
 
 
