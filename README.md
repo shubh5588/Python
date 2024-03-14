@@ -19,4 +19,7 @@ Python character set </u>
 <ul> <li> Whitespace - Blank Space,tab,Carriage Return,Newline, Formfeed </li> </ul>
 <ul> <li> Other characters - python can process all ASCII and unicode characters as part of data or literals </li> </ul>
 
-
+<H3> 
+Variables </H3>
+<br>
+A Variable is a name given to a memory location in a program
