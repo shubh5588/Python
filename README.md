@@ -13,8 +13,8 @@
 <H3> <u>
 Python character set </u>
 </H3>
-<ul>
-Letters - A to Z, a to z
+<ul> <li>
+Letters - A to Z, a to z</li>
 </ul>
 
 
