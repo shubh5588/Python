@@ -14,6 +14,7 @@
 Python character set </u>
 </H3>
 <ul> <li> Letters  - A to Z, a to z </li> </ul>
+<ul> <li> Digits- 0 to 9 </li> </ul>
 
 
 
