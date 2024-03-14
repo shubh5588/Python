@@ -1,12 +1,12 @@
 What is Python ?
 <br>
-Python is simple and easy programming language 
+1.Python is simple and easy programming language 
 <br>
-Free and Open source
+2.Free and Open source
 <br>
-High level Language
+3.High level Language
 <br>
-Developed by Guido van rossum
+4.Developed by Guido van rossum
 <br>
-Portal
+5.Portal
 
