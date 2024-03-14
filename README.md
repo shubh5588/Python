@@ -13,14 +13,7 @@
 <H3> <u>
 Python character set </u>
 </H3>
-<ul> <li> Letters - A to Z, a to z</li> 
-</ul>
-<ul> <li> Digits <li>
-</ul>
-<ul> <li> Special Symbols - + * / % etc. </li>
-</ul>
-<u> <li> Whitespaces - Blank Space, Tab, carriage return, Newline, Formfeed </li>
-</u>
+
 
 
 
