@@ -16,5 +16,8 @@ Python character set </u>
 <ul> <li>
 Letters - A to Z, a to z</li>
 </ul>
+<ul> <li>
+Digits <li>
+</ul>
 
 
