@@ -19,5 +19,10 @@ Letters - A to Z, a to z</li>
 <ul> <li>
 Digits <li>
 </ul>
+<ul> <li>
+Special Symbols - + * / % etc. </li>
+</ul>
+<u> <li>Whitespaces - Blank Space, Tab, carriage return, Newline, Formfeed </li> </u>
+
 
 
