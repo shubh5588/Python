@@ -11,6 +11,6 @@
 5.Portal
 
 <H3> <u>
-Python character set
-</H3> </u>
+Python character set </u>
+</H3>
 
